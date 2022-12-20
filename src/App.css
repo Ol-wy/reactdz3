@@ -1,0 +1,73 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+input {
+  height: 50px;
+  width: 500px;
+  padding: 0px 10px;
+  border: none;
+  background-color: navy;
+  opacity: .3;
+  color: black;
+  font-size: 30px;
+
+}
+h1 {
+  
+  font-family: sans-serif;
+  padding: 20px 0px;
+}
+
+.btn {
+  border-radius: 25px;
+  width: 100px;
+  height: 40px;
+  border: none;
+  background-color: rgb(86, 125, 255);
+  color: aliceblue;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  font-size: 10px;
+  margin-left: 40%;
+  margin-top: 50px;
+
+
+}
+  
+.info {
+  display: flex;
+  justify-content: center;
+  width: 500px;
+}
+
+.city {
+  margin-right: 10px;
+  color: navy;
+  font-size: 20px;
+}
+
+.temp {
+  color: navy;
+  font-size: 20px;
+}
+
+.temp__feels {
+  padding-left: 10px;
+  color: navy;
+  font-size: 20px;
+}
+
+.head {
+  background-image: url(https://kartinkin.net/uploads/posts/2021-07/1627480163_21-kartinkin-com-p-nebo-fon-tekstura-krasivo-22.jpg);
+  width: 500px;
+  height: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  padding-top: 100px;
+}
